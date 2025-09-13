@@ -1,7 +1,7 @@
 How to Access Your PC Matic Login Account Easily
 ============================================
 
-.. image:: pcmatic.png
+.. image:: login.jpg
    :alt: Pc Matic
    :width: 400px
    :align: center
