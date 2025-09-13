@@ -1,4 +1,4 @@
-project = 'PC Matic'
+project = 'PC-MAtic-Account-Setup'
 author = 'Denial'
 release = '1.0'
  
